@@ -1,0 +1,7 @@
+C:\Users\Алия Галеева\source\repos\ps3.2\ps3.2\bin\Debug\ps3.2.exe.config
+C:\Users\Алия Галеева\source\repos\ps3.2\ps3.2\bin\Debug\ps3.2.exe
+C:\Users\Алия Галеева\source\repos\ps3.2\ps3.2\bin\Debug\ps3.2.pdb
+C:\Users\Алия Галеева\source\repos\ps3.2\ps3.2\obj\Debug\ps3.2.csprojResolveAssemblyReference.cache
+C:\Users\Алия Галеева\source\repos\ps3.2\ps3.2\obj\Debug\ps3.2.csproj.CoreCompileInputs.cache
+C:\Users\Алия Галеева\source\repos\ps3.2\ps3.2\obj\Debug\ps3.2.exe
+C:\Users\Алия Галеева\source\repos\ps3.2\ps3.2\obj\Debug\ps3.2.pdb

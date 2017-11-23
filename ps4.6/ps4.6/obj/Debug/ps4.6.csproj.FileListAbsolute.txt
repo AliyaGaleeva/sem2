@@ -1,0 +1,7 @@
+c:\users\алия галеева\source\repos\ps4.6\ps4.6\bin\Debug\ps4.6.exe.config
+c:\users\алия галеева\source\repos\ps4.6\ps4.6\bin\Debug\ps4.6.exe
+c:\users\алия галеева\source\repos\ps4.6\ps4.6\bin\Debug\ps4.6.pdb
+c:\users\алия галеева\source\repos\ps4.6\ps4.6\obj\Debug\ps4.6.csprojResolveAssemblyReference.cache
+c:\users\алия галеева\source\repos\ps4.6\ps4.6\obj\Debug\ps4.6.csproj.CoreCompileInputs.cache
+c:\users\алия галеева\source\repos\ps4.6\ps4.6\obj\Debug\ps4.6.exe
+c:\users\алия галеева\source\repos\ps4.6\ps4.6\obj\Debug\ps4.6.pdb
