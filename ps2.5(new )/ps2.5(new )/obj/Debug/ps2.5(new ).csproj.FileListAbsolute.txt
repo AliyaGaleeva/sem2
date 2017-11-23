@@ -1,0 +1,7 @@
+C:\Users\Алия Галеева\source\repos\ps2.5(new )\ps2.5(new )\bin\Debug\ps2.5(new ).exe.config
+C:\Users\Алия Галеева\source\repos\ps2.5(new )\ps2.5(new )\bin\Debug\ps2.5(new ).exe
+C:\Users\Алия Галеева\source\repos\ps2.5(new )\ps2.5(new )\bin\Debug\ps2.5(new ).pdb
+C:\Users\Алия Галеева\source\repos\ps2.5(new )\ps2.5(new )\obj\Debug\ps2.5(new ).csprojResolveAssemblyReference.cache
+C:\Users\Алия Галеева\source\repos\ps2.5(new )\ps2.5(new )\obj\Debug\ps2.5(new ).csproj.CoreCompileInputs.cache
+C:\Users\Алия Галеева\source\repos\ps2.5(new )\ps2.5(new )\obj\Debug\ps2.5(new ).exe
+C:\Users\Алия Галеева\source\repos\ps2.5(new )\ps2.5(new )\obj\Debug\ps2.5(new ).pdb
